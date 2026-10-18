@@ -3,7 +3,7 @@
 int main(void)
 {
     int i;
-    scanf("0x18f"&i);
-    printf("0x18f"i); 
+    scanf("%d"&i);
+    printf("%x\n"i); 
     return 0;
 }
