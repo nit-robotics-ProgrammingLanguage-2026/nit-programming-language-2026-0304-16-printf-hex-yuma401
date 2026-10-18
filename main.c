@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-int main(void) {
-    /* 課題0304: 入力されたintのデータを16進数として表示するプログラムを書け． */
+int main(void)
     int i;
-    scanf();
-    printf(); 
+    scanf("0x18f"&i);
+    printf("0x18f"&i); 
     return 0;
 }
